@@ -1,5 +1,9 @@
 ### 👋 Hi there, I'm Gonzalo Rios Backend Developer
 
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate in high impact projects 
+- 📫 How to reach me: https://www.linkedin.com/in/rios-gonzalo/ 
 
 <!--
 **GonzaRios/GonzaRios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
