@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Gonzalo Rios Backend Developer
 
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on web development applied to vehicle geolocation systems.
+- 🌱 I’m currently learning C++ applied to audio.
 - 👯 I’m looking to collaborate in high impact projects 
 - 📫 How to reach me: https://www.linkedin.com/in/rios-gonzalo/ 
 
